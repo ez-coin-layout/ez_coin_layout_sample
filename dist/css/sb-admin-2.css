@@ -152,6 +152,7 @@ body {
     color: #428bca;
 }
 
+
 .btn-success.btn-outline {
     color: #5cb85c;
 }
@@ -167,6 +168,7 @@ body {
 .btn-danger.btn-outline {
     color: #d9534f;
 }
+
 
 .btn-primary.btn-outline:hover,
 .btn-success.btn-outline:hover,
@@ -354,4 +356,13 @@ table.dataTable thead .sorting:after {
 
 .panel-yellow a:hover {
     color: #f69302;
+}
+
+.board{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.panel{
+    margin-top: 35px;
 }
