@@ -394,4 +394,21 @@ table.dataTable thead .sorting:after {
 .text02{
     text-align: center;
     font-size: 14px;
-    }
+}
+
+.panel-default>.panel-heading01 {
+    color: #333;
+    background-color: #f69302;
+    border-color: #ddd;
+    padding: 10px 35px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    text-align: center;
+}
+
+.btn-success01 {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #4cae4c;
+}
