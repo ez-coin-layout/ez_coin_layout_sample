@@ -412,3 +412,14 @@ table.dataTable thead .sorting:after {
     background-color: #337ab7;
     border-color: #4cae4c;
 }
+
+.panel-default>.panel-heading02 {
+    color: #333;
+    background-color: #5cb85c;
+    border-color: #ddd;
+    padding: 10px 35px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    text-align: center;
+}
