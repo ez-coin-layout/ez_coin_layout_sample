@@ -432,3 +432,12 @@ table.dataTable thead .sorting:after {
    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
    box-shadow: 0 1px 1px rgba(0,0,0,.05);
 }
+
+.row {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
